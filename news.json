@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Новость 1",
+    "description": "Описание первой новости.",
+    "date": "2025-06-14",
+    "imageResId": "https://npx.by/files/uploads/rdr2.jpg"
+  },
+  {
+    "title": "Новость 2",
+    "description": "Описание второй новости.",
+    "date": "2025-06-13",
+    "imageResId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY9PY4RGKhOvTaaoT1s076ELb4oOVAQJ45pg&s"
+  },
+  {
+    "title": "Новость 3",
+    "description": "Описание третьей новости.",
+    "date": "2025-06-12",
+    "imageResId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOcsfBzv6CnPscNmAeCLx47BBhaqmf5t80cQ&s"
+  }
+]
